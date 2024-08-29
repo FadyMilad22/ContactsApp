@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Names -->
+    <string name="app_name">جهات الاتصال</string>
+    <string name="name_auntie">العمة</string>
+    <string name="name_brother">الأخ</string>
+    <string name="name_daughter">الابنة</string>
+    <string name="name_friend1">الصديق 1</string>
+    <string name="name_friend2">الصديق 2</string>
+    <string name="name_grandfather">الجد</string>
+    <string name="name_granny">الجدة</string>
+    <string name="name_neighbour">الجيران</string>
+    <string name="name_sister">الأخت</string>
+    <string name="name_son">الابن</string>
+    <string name="name_uncle">العم</string>
+    <string name="name_home">البيت</string>
+    <!-- Phone Numbers -->
+<!--    <string name="phone_auntie">+٢٠١٠١٢٣٤٥٦٧٨</string>-->
+<!--    <string name="phone_brother">+٢٠١١٢٣٤٥٦٧٨٩</string>-->
+<!--    <string name="phone_daughter">+٢٠١٢٣٤٥٦٧٨٩٠</string>-->
+<!--    <string name="phone_friend1">+٢٠١٣٤٥٦٧٨٩٠١</string>-->
+<!--    <string name="phone_friend2">+٢٠١٤٥٦٧٨٩٠١٢</string>-->
+<!--    <string name="phone_grandfather">+٢٠١٥٦٧٨٩٠١٢٣</string>-->
+<!--    <string name="phone_granny">+٢٠١٦٧٨٩٠١٢٣٤</string>-->
+<!--    <string name="phone_neighbour">+٢٠١٧٨٩٠١٢٣٤٥</string>-->
+<!--    <string name="phone_sister">+٢٠١٨٩٠١٢٣٤٥٦</string>-->
+<!--    <string name="phone_son">+٢٠١٩٠١٢٣٤٥٦٧</string>-->
+<!--    <string name="phone_uncle">+٢٠١٢٣٤٥٦٧٨٩٠</string>-->
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+
+        <!-- Names -->
+        <string name="name_auntie">Auntie</string>
+        <string name="name_brother">Brother</string>
+        <string name="name_daughter">Daughter</string>
+        <string name="name_friend1">Friend 1</string>
+        <string name="name_friend2">Friend 2</string>
+        <string name="name_grandfather">Grandfather</string>
+        <string name="name_granny">Granny</string>
+        <string name="name_neighbour">Neighbour</string>
+        <string name="name_sister">Sister</string>
+        <string name="name_son">Son</string>
+        <string name="name_uncle">Uncle</string>
+        <string name="name_home">Uncle</string>
+
+        <!-- Phone Numbers -->
+        <string name="phone_auntie" translatable="false">+201012345678</string>
+        <string name="phone_brother" translatable="false">+201123456789</string>
+        <string name="phone_daughter" translatable="false">+201234567890</string>
+        <string name="phone_friend1" translatable="false">+201345678901</string>
+        <string name="phone_friend2" translatable="false">+201456789012</string>
+        <string name="phone_grandfather" translatable="false">+201567890123</string>
+        <string name="phone_granny" translatable="false">+201678901234</string>
+        <string name="phone_neighbour" translatable="false">+201789012345</string>
+        <string name="phone_sister" translatable="false">+201890123456</string>
+        <string name="phone_son" translatable="false">+201901234567</string>
+        <string name="phone_uncle" translatable="false">+201234567890</string>
+        <string name="phone_home" translatable="false">+201012745678</string>
+
+</resources>
